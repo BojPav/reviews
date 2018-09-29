@@ -1,0 +1,33 @@
+.pic-1 {
+    background-image: url(assets/images/people_1.jpg);
+    background-position: center;
+    height: 100px;
+}
+.pic-2 {
+    background-image: url(assets/images/people_2.jpg);
+    background-position: center;
+    height: 100px;
+}
+.pic-3 {
+    background-image: url(assets/images/people_3.jpg);
+    background-position: center;
+    height: 100px;
+}
+.pic-4 {
+    background-image: url(assets/images/people_4.jpg);
+    background-position: center;
+    height: 100px;
+}
+.pic-5 {
+    background-image: url(assets/images/people_5.jpg);
+    background-position: center;
+    height: 100px;
+}
+.vertical-text {
+    transform: rotate(-90deg);
+    transform-origin: left top 0;
+    margin-left: 200px;
+}
+.div1 {
+    margin-top: 300px;
+}
